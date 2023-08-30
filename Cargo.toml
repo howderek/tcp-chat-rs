@@ -1,5 +1,5 @@
 [package]
-name = "derek-simple-chat"
+name = "tcp-chat-rs"
 version = "0.1.0"
 edition = "2021"
 
